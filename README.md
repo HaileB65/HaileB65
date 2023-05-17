@@ -37,4 +37,4 @@ I like solving problems and developing websites. I like learning how things work
 
 ## 📈 GitHub Stats 
 
-![](./contributions2.png)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaileB65&repo=github-readme-stats)](https://github.com/HaileB65/github-readme-stats)
