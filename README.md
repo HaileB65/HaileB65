@@ -26,6 +26,7 @@ I like solving problems and developing websites. I like learning how things work
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Coding-Java-orange)
+![](https://img.shields.io/badge/Coding-Spring-green)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 
 </br>
