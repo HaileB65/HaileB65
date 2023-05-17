@@ -2,11 +2,10 @@
 
 I like solving problems and developing websites. I like learning how things work and how to improve apon them. Finding challenges that get me thinking and seeing a project come to life.
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/haile-brendon/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+### 🤝 Connect with me: <a href="https://www.linkedin.com/in/haile-brendon/"><img align="left" src="" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
