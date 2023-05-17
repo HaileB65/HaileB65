@@ -27,7 +27,7 @@ I like solving problems and developing websites. I like learning how things work
 
 ![](https://img.shields.io/badge/Coding-Java-orange)
 ![](https://img.shields.io/badge/Coding-Spring-green)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/markup-html-orange)
 
 </br>
 
