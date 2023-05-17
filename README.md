@@ -1,6 +1,6 @@
 [<img src="https://github.com/HaileB65/test/blob/main/github-header-image2.png"/>](https://www.linkedin.com/in/haile-brendon/)
 
-I like solving problems and developing websites. I like learning how things work and how to improve apon them. Finding challenges that get me thinking and seeing a project come to life.
+I like solving problems and developing websites. I like learning how things work and how to improve upon them. I love seeing a project come to life.
 
 ### 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/haile-brendon/">
@@ -10,13 +10,13 @@ I like solving problems and developing websites. I like learning how things work
 <br>
 <br>
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 If you have any feedback or would like to collaborate, please feel free reach out!
 
 ## 🔭 I'm currently working on
 
-- Vaction Finder App
-- A Budget creator App
-- Recipe creater App
+- [Vaction Finder App](https://github.com/HaileB65/VacationFinderApp)
+- [A Budget creator App](https://github.com/HaileB65/MyBudgetApp)
+- [Recipe creater App](https://github.com/HaileB65/RecipeApp)
 
 ## 🌱 I'm currently learning
 
