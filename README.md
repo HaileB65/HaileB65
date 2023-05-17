@@ -27,11 +27,16 @@ I like solving problems and developing websites. I like learning how things work
 
 ![](https://img.shields.io/badge/Coding-Java-orange)
 ![](https://img.shields.io/badge/Coding-Spring-green)
-![](https://img.shields.io/badge/markup-html-orange)
+
+<br>
+
+![](https://img.shields.io/badge/databases-mysql-blue)
+![](https://img.shields.io/badge/databases-redis-red)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/markup-html-orange)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 
