@@ -3,9 +3,10 @@
 I like solving problems and developing websites. I like learning how things work and how to improve apon them. Finding challenges that get me thinking and seeing a project come to life.
 
 ### 🤝 Connect with me: 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <a href="https://www.linkedin.com/in/haile-brendon/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="21px"/></a>
+
 </br>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
