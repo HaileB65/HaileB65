@@ -5,7 +5,7 @@ I like solving problems and developing websites. I like learning how things work
 ### 🤝 Connect with me: 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<a href="https://www.linkedin.com/in/haile-brendon/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="60px"/></a>
+<a href="https://www.linkedin.com/in/haile-brendon/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="200px"/></a>
 
 </br>
 
