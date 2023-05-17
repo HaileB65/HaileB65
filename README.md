@@ -20,8 +20,8 @@ I like solving problems and developing websites. I like learning how things work
 
 ## 🌱 I'm currently learning
 
-- JavaScript
-- AWS Pipline
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- AWS Pipeline
 - REST APIs  
 
 ## 💼 Technical Skills
