@@ -1,4 +1,4 @@
-[<img src="https://github.com/HaileB65/test/blob/main/github-header-image2.png"/>](https://www.linkedin.com/in/haile-brendon/)
+[<img src="github-header-image2.png"/>](https://www.linkedin.com/in/haile-brendon/)
 
 I like solving problems and developing websites. I like learning how things work and how to improve upon them. I love seeing a project come to life.
 
