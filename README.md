@@ -16,12 +16,13 @@ I like solving problems and developing websites. I like learning how things work
 
 - [Vaction Finder App](https://github.com/HaileB65/VacationFinderApp)
 - [A Budget creator App](https://github.com/HaileB65/MyBudgetApp)
-- [Recipe creater App](https://github.com/HaileB65/RecipeApp)
+- [Record Room App](https://github.com/HaileB65/Record_Room)
 
 ## 🌱 I'm currently learning
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker]()
 
 ## 💼 Technical Skills
 
