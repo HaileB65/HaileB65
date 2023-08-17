@@ -16,7 +16,7 @@ I like solving problems and developing websites. I like learning how things work
 
 - [Vaction Finder App](https://github.com/HaileB65/VacationFinderApp)
 - [A Budget creator App](https://github.com/HaileB65/MyBudgetApp)
-- [Music Search App](https://github.com/HaileB65/Record_Room)
+- [Music Finder App](https://github.com/HaileB65/Record_Room)
 
 ## 🌱 I'm currently learning
 
