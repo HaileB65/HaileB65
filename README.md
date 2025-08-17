@@ -18,14 +18,11 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 - [Finance App](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
-Web Development
-- [Personal Website](https://github.com/HaileB65/hailemariambrendon.com)
+- [Web Development](https://github.com/HaileB65/hailemariambrendon.com)
 
-Frontend Technologies
 - [JavasScript](https://github.com/HaileB65/hailemariambrendon.com)
 
-Java Desktop Applications
-- [Calculator Desktop App](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
+- [Java Desktop Development](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
 
 
 ## 🌱 I'm currently learning
