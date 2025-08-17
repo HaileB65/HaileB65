@@ -1,6 +1,11 @@
 [<img src="github-header-image2.png"/>](https://www.linkedin.com/in/haile-brendon/)
 
-I like solving problems and developing websites. I like learning how things work and how to improve upon them. I love seeing a project come to life.
+I'm from the USA (add flage pic) currently in the Central Standard Time Zone (add world pic). I am a huge fan of Java, Spring Framework, creating desktop applications, and creating websites. When I'm not learning Javascript or designing my own personal website, I can be found training gymnastics, playing guitar, weight lifting, working on project cars, and hanging out with my friends.
+
+| <img src='png/US@2x.png?raw=true' width='21' height='15'> | US | United States
+
+| <img src='png/WW.png?raw=true' width='21' height='15'> | WW | World
+
 
 ### 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/haile-brendon/">
