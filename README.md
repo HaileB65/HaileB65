@@ -22,13 +22,8 @@ Web Development
 - [Personal Website](https://github.com/HaileB65/hailemariambrendon.com)
 - Currently learning JavaScript
 
-Application Development
-- [Java Desktop App]([https://github.com/HaileB65/hailemariambrendon.com](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
-
-
-Desktop Application Development
-Desktop Caclulator
-https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4
+Java Application Development
+- [Calculator Desktop App](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
 
 
 ## 🌱 I'm currently learning
