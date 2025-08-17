@@ -3,6 +3,7 @@
 I'm from the USA (add flage pic) currently in the Central Standard Time Zone (add world pic). I am a huge fan of Java, Spring Framework, creating desktop applications, and creating websites. When I'm not learning Javascript or designing my own personal website, I can be found training gymnastics, playing guitar, weight lifting, working on project cars, and hanging out with my friends.
 
 | <img src='png/US@2x.png?raw=true' width='21' height='15'> | US | United States
+![]([https://img.shields.io/badge/Coding-Java-orange](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png)
 
 | <img src='png/WW.png?raw=true' width='21' height='15'> | WW | World
 
