@@ -22,7 +22,7 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 
 - [JavasScript](https://github.com/HaileB65/hailemariambrendon.com)
 
-- [Java Desktop Development](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
+- [Java Desktop Development](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4)
 
 
 ## 🌱 I'm currently learning
