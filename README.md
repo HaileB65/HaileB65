@@ -12,11 +12,24 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 
 💬 If you have any feedback or would like to collaborate, please feel free reach out!
 
-## 🔭 I'm currently working on
+## My Portfolio
+- [Music App](https://github.com/HaileB65/Record_Room)
+- [Travel App](https://github.com/HaileB65/VacationFinderApp)
+- [Finance App](https://github.com/HaileB65/MyBudgetApp)
 
-- [Vaction Finder App](https://github.com/HaileB65/VacationFinderApp)
-- [A Budgeting App](https://github.com/HaileB65/MyBudgetApp)
-- [Music Finder App](https://github.com/HaileB65/Record_Room)
+## 🔭 I'm currently working on
+Web Development
+- [Personal Website](https://github.com/HaileB65/hailemariambrendon.com)
+- Currently learning JavaScript
+
+Application Development
+- [Java Desktop App]([https://github.com/HaileB65/hailemariambrendon.com](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
+
+
+Desktop Application Development
+Desktop Caclulator
+https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4
+
 
 ## 🌱 I'm currently learning
 
