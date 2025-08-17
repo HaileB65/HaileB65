@@ -1,11 +1,6 @@
 [<img src="github-header-image2.png"/>](https://www.linkedin.com/in/haile-brendon/)
 
-I'm from the USA (add flage pic) currently in the Central Standard Time Zone (add world pic). I am a huge fan of Java, Spring Framework, creating desktop applications, and creating websites. When I'm not learning Javascript or designing my own personal website, I can be found training gymnastics, playing guitar, weight lifting, working on project cars, and hanging out with my friends.
-
-| <img src='png/US@2x.png?raw=true' width='21' height='15'> | US | United States
-![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png)
-![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png)
-
+I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png) currently in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, creating desktop applications, and creating websites. When I'm not learning Javascript or designing my own personal website, I can be found training gymnastics, playing guitar, weight lifting, working on project cars, and hanging out with my friends.
 
 ### 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/haile-brendon/">
