@@ -20,9 +20,11 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 ## 🔭 I'm currently working on
 Web Development
 - [Personal Website](https://github.com/HaileB65/hailemariambrendon.com)
-- Currently learning JavaScript
 
-Java Application Development
+JavaScript
+- [JavasScript](https://github.com/HaileB65/hailemariambrendon.com)
+
+Java Desktop Development
 - [Calculator Desktop App](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4))
 
 
