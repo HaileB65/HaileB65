@@ -15,7 +15,7 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 ## 🔭 I'm currently working on
 
 - [Vaction Finder App](https://github.com/HaileB65/VacationFinderApp)
-- [A Budget creator App](https://github.com/HaileB65/MyBudgetApp)
+- [A Budgeting App](https://github.com/HaileB65/MyBudgetApp)
 - [Music Finder App](https://github.com/HaileB65/Record_Room)
 
 ## 🌱 I'm currently learning
