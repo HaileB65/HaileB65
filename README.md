@@ -13,8 +13,8 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 💬 If you have any feedback or would like to collaborate, please feel free reach out!
 
 ## My Portfolio
-- [Music App](https://github.com/HaileB65/Record_Room)
 - [Travel App](https://github.com/HaileB65/VacationFinderApp)
+- [Music App](https://github.com/HaileB65/Record_Room)
 - [Finance App](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
