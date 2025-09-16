@@ -18,7 +18,7 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 - [Finance App](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
-- [Web Development](https://github.com/HaileB65/hailemariambrendon.com)
+- [Personal Website](https://github.com/HaileB65/hailemariambrendon.com)
 
 - [JavaScript](https://github.com/HaileB65/hailemariambrendon.com)
 
