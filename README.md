@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/fb2c7c42-07b4-44f3-90f0-89ce45b1c6aa" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/e58b8ed5-b04c-4d55-a40e-1b2b9709777f" />
 
 I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png) currently in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and hanging out with my friends.
 
