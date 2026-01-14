@@ -50,4 +50,3 @@ Hello! My name is Haile Brendon and I'm from the USA ![](https://raw.githubuserc
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
-![Haile's GitHub stats]()
