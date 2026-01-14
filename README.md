@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/e58b8ed5-b04c-4d55-a40e-1b2b9709777f" />
 
-Hi! I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png). I live in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and hanging out with my friends.
+Hello! My name is Haile Brendon and I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png). I currently live in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and hanging out with my friends.
 
 ### 🤝 Connect with me:
 
