@@ -51,4 +51,3 @@ Hello! My name is Haile Brendon and I'm from the USA ![](https://raw.githubuserc
 
 ## 📈 GitHub Stats 
 ![Haile's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaileB65&theme=dark&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
