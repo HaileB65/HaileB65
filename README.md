@@ -1,8 +1,9 @@
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/e58b8ed5-b04c-4d55-a40e-1b2b9709777f" />
 
-I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png) currently in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and hanging out with my friends.
+Hi! I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/US%402x.png). I live in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and hanging out with my friends.
 
-### 🤝 Connect with me: 
+### 🤝 Connect with me:
+
 <a href="https://www.linkedin.com/in/haile-brendon/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/>
 </a>
@@ -13,21 +14,16 @@ I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/
 💬 If you have any feedback or would like to collaborate, please feel free reach out!
 
 ## My Portfolio
+
 - [Travel App](https://github.com/HaileB65/VacationFinderApp)
 - [Music App](https://github.com/HaileB65/Record_Room)
 - [Finance App](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
-- [Personal Website](https://github.com/HaileB65/hailemariambrendon.com)
-
-- [JavaScript](https://github.com/HaileB65/hailemariambrendon.com)
-
-- [Java Desktop Development](https://github.com/HaileB65/Java_Calculator_Desktop_Application_Version4)
 
 
 ## 🌱 I'm currently learning
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
