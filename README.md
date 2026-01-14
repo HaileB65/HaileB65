@@ -50,5 +50,4 @@ Hi! I'm from the USA ![](https://raw.githubusercontent.com/yammadev/flag-icons/r
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
-
 ![Haile's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaileB65&theme=dark&show_icons=true)
