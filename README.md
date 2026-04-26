@@ -22,7 +22,7 @@ Hello! My name is Haile Brendon and I'm from the USA ![United States](https://ra
 - [Finance App](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
-Learning C# and .Net
+
 
 
 ## 🌱 I'm currently learning
