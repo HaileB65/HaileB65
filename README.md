@@ -2,6 +2,8 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 Hello! My name is Haile Brendon and I'm from the USA ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States"). I currently live in the Central Standard Time Zone ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png). I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and hanging out with my friends.
 
