@@ -12,9 +12,9 @@ Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://r
 
 ## My Portfolio
 
-- [Travel App](https://github.com/HaileB65/VacationFinderApp)
-- [Music App](https://github.com/HaileB65/Record_Room)
-- [Finance App](https://github.com/HaileB65/MyBudgetApp)
+- [Travel application](https://github.com/HaileB65/VacationFinderApp)
+- [Music application](https://github.com/HaileB65/Record_Room)
+- [Finance application](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
 
