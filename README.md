@@ -1,4 +1,5 @@
-![Uploading Blue Modern Programmer LinkedIn Banner 4.png…]()
+<img width="1584" height="396" alt="Fixed Blue Modern Programmer LinkedIn Banner Fixed email alignment and spacing issues" src="https://github.com/user-attachments/assets/376bb514-f9b2-4c7c-bf08-ff0643a8e315" />
+
 <img width="1584" height="396" alt="Blue Modern Programmer LinkedIn Banner 3" src="https://github.com/user-attachments/assets/7736f75a-1e88-4c1b-be9c-e812fc04e931" />
 <img width="1584" height="396" alt="Blue Modern Programmer LinkedIn Banner2" src="https://github.com/user-attachments/assets/bb813a79-9743-4513-afe3-43be11b7b50c" />
 <img width="1584" height="396" alt="Blue Modern Programmer LinkedIn Banner" src="https://github.com/user-attachments/assets/974e0128-ee21-4683-ad1f-6a9ed8da36cf" />
