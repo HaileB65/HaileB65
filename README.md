@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Blue Modern Programmer LinkedIn Banner 3" src="https://github.com/user-attachments/assets/7736f75a-1e88-4c1b-be9c-e812fc04e931" />
 <img width="1584" height="396" alt="Blue Modern Programmer LinkedIn Banner2" src="https://github.com/user-attachments/assets/bb813a79-9743-4513-afe3-43be11b7b50c" />
 <img width="1584" height="396" alt="Blue Modern Programmer LinkedIn Banner" src="https://github.com/user-attachments/assets/974e0128-ee21-4683-ad1f-6a9ed8da36cf" />
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/e58b8ed5-b04c-4d55-a40e-1b2b9709777f" />
