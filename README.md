@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="Fixed Blue Modern Programmer LinkedIn Banner Fixed email alignment and spacing issues" src="https://github.com/user-attachments/assets/376bb514-f9b2-4c7c-bf08-ff0643a8e315" />
 
-Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") I currently live in the Central Standard Time Zone. ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png) I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and going on natuere walks.
+Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") I currently live in the Central Standard Time Zone. ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png) I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and going on nature walks.
 
 ### 🤝 Connect with me:
 
