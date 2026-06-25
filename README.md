@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Fixed Blue Modern Programmer LinkedIn Banner Fixed email alignment and spacing issues" src="https://github.com/user-attachments/assets/376bb514-f9b2-4c7c-bf08-ff0643a8e315" />
+<img width="1584" height="396" alt="Blue and Black Modern Developer LinkedIn Banner v5" src="https://github.com/user-attachments/assets/3a894f6c-5512-42d4-8a97-a9bcb649d4e7" />
 
 Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") I currently live in the Central Standard Time Zone. ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png) I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found working on project cars and going on nature walks.
 
@@ -17,6 +17,11 @@ Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://r
 - [Finance application](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
+
+SupplyChainApplication (Logistics Website)
+HailemariamBrendon.com (Personal Portfolio)
+SupperCleanCarWash (Freelance)
+FitPro (Fitness App)
 
 ## 🌱 I'm currently learning
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -37,3 +42,4 @@ Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://r
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
+
