@@ -8,8 +8,6 @@ Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://r
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/>
 </a>
 
-</br>
-
 💬 If you have any feedback or would like to collaborate, please feel free reach out!
 
 ## My Portfolio
